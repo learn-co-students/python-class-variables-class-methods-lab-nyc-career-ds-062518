@@ -1,2 +1,5 @@
 class Driver:
-    pass
+    
+    @classmethod
+    def poop(arg):
+        pass
